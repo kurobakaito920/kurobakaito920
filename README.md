@@ -2,7 +2,7 @@
 
 <!--
 **kurobakaito920/kurobakaito920** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+-->
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kurobakaito920&theme=tokyonight&show_icons=true)](https://github.com/kurobakaito920/github-readme-stats)
 Here are some ideas to get you started:
 
